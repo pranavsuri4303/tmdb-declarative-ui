@@ -1,0 +1,6 @@
+framework module Pods_TMDB_TMDBUITests {
+  umbrella header "Pods-TMDB-TMDBUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
