@@ -8,7 +8,5 @@ Martin Leblanc (iconfinder.com) said something recently about UI that sums it up
 ## Jetpack Compose
 ![Jetpack Compose TMDB Demo](media/front-jetpack.gif)
 ![Jetpack Compose TMDB Demo](media/end-jetpack.gif)<br>
-Credits to Aldrin ong
 ## Flutter
-Credits to Owen Gozali
 
