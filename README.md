@@ -13,8 +13,8 @@ It must be noted that the pros and cons highlighted in this article are not univ
 ## Swift UI
 SwiftUI is Apple’s way of implementing a declarative UI. In Apple’s words SwiftUI is an innovative, exceptionally simple way to build user interfaces across all Apple platforms with the power of Swift. It was released during WWDC 2019. SwiftUI makes use of Views and modifiers to define the UI. In SwiftUI, Views are defined as structs and modifiers as protocol methods. <br>
 <p align="center">
-![SwiftUI TMDB Demo](media/front-swiftui.gif)
-![SwiftUI TMDB Demo](media/end-swiftui.gif)<br>
+  ![SwiftUI TMDB Demo](media/front-swiftui.gif)
+  ![SwiftUI TMDB Demo](media/end-swiftui.gif)
 </p>
 ## Jetpack Compose
 ![Jetpack Compose TMDB Demo](media/front-jetpack.gif)
