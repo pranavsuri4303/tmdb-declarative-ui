@@ -24,9 +24,16 @@ Flutter is an open-source UI software development kit created by Google. What se
 
 The Flutter UI itself is quite easy to follow, it uses an object oriented approach with all of its widgets being children of others. These widgets are fully customizable to suit the designer’s vision and its hot restart feature make it excellent for rapid prototyping designs. The convenience for cross platform development, easy to use UI, and quick compiles and updates make it an excellent choice for prototyping.
 ## Comparison between Swift/Jetpack/Flutter
+### Maturity/Developer Support
 |SwiftUI                      |Jetpack                      |Flutter                         |
 |:----------------------------|:----------------------------|:-------------------------------|
 | Released in 2019, lack of support for complex issues. Common errors documented on forums. | Released in 2019, lack of questions and posts on popular forums. | Released in 2018, it has plenty of common errors documented on forums. |
 | SwiftUI documentation is fairly elaborate. | Jetpack documentation made by Google is not always clear and not user friendly. | Flutter documentation professionally made by the Google team. Clear presentation and partitions, easy to read. |
 | SwiftUI introduction tutorial by Apple. | Lack of external libraries from the community and Google. | Plenty of useful libraries available from the community and official developers. |
 
+### MVVM Implementation
+|SwiftUI                      |Jetpack                      |Flutter                         |
+|:----------------------------|:----------------------------|:-------------------------------|
+| Introduction of Combine framework | Easy to implement with the use of observables (LiveData) | Unconventional method of separating business logic from view (MVVM) |
+| Don’t have to use third party libraries | Don’t have to use third party libraries | Relatively tedious code structure |
+|  |  | May require significant extra training |
