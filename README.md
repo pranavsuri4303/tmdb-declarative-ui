@@ -15,7 +15,12 @@ SwiftUI is Apple’s way of implementing a declarative UI. In Apple’s words Sw
   ![SwiftUI TMDB Demo](media/front-swiftui.gif)
   ![SwiftUI TMDB Demo](media/end-swiftui.gif)
 ## Jetpack Compose
+Android Jetpack Compose is Google’s solution for implementing declarative UI. “Jetpack compose is a declarative UI toolkit built for Android, inspired by frameworks like React, Vue.js, and Flutter.” With compose, UI is defined as functions and the functions transform data into view hierarchies. A compose app is made up of composable functions - regular functions market with @composable, which can call other composable functions.
+
 ![Jetpack Compose TMDB Demo](media/front-jetpack.gif)
 ![Jetpack Compose TMDB Demo](media/end-jetpack.gif)<br>
 ## Flutter
+Flutter is an open-source UI software development kit created by Google. What separates it from Jetpack Compose and SwiftUI is its ability to do hybrid development for iOS and Android simultaneously. Flutter projects use the same Dart files which are transcribed into their iOS and Android counterparts when run, making it very useful for small teams and indie developers.
+
+The Flutter UI itself is quite easy to follow, it uses an object oriented approach with all of its widgets being children of others. These widgets are fully customizable to suit the designer’s vision and its hot restart feature make it excellent for rapid prototyping designs. The convenience for cross platform development, easy to use UI, and quick compiles and updates make it an excellent choice for prototyping.
 
