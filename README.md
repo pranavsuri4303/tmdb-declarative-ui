@@ -23,4 +23,13 @@ Android Jetpack Compose is Google’s solution for implementing declarative UI. 
 Flutter is an open-source UI software development kit created by Google. What separates it from Jetpack Compose and SwiftUI is its ability to do hybrid development for iOS and Android simultaneously. Flutter projects use the same Dart files which are transcribed into their iOS and Android counterparts when run, making it very useful for small teams and indie developers.
 
 The Flutter UI itself is quite easy to follow, it uses an object oriented approach with all of its widgets being children of others. These widgets are fully customizable to suit the designer’s vision and its hot restart feature make it excellent for rapid prototyping designs. The convenience for cross platform development, easy to use UI, and quick compiles and updates make it an excellent choice for prototyping.
+## Comparison between Swift/Jetpack/Flutter
+|SwiftUI                      |Jetpack                      |Flutter                         |
+|:----------------------------|:----------------------------|:-------------------------------|
+| Released in 2019, lack of 
+  support for complex issues. 
+  Common errors documented on 
+  forums.| right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
