@@ -27,6 +27,6 @@ The Flutter UI itself is quite easy to follow, it uses an object oriented approa
 |SwiftUI                      |Jetpack                      |Flutter                         |
 |:----------------------------|:----------------------------|:-------------------------------|
 | Released in 2019, lack of support for complex issues. Common errors documented on forums. | Released in 2019, lack of questions and posts on popular forums. | Released in 2018, it has plenty of common errors documented on forums. |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| SwiftUI documentation is fairly elaborate. | Jetpack documentation made by Google is not always clear and not user friendly. | Flutter documentation professionally made by the Google team. Clear presentation and partitions, easy to read. |
+| SwiftUI introduction tutorial by Apple. | Lack of external libraries from the community and Google. | Plenty of useful libraries available from the community and official developers. |
 
