@@ -26,10 +26,7 @@ The Flutter UI itself is quite easy to follow, it uses an object oriented approa
 ## Comparison between Swift/Jetpack/Flutter
 |SwiftUI                      |Jetpack                      |Flutter                         |
 |:----------------------------|:----------------------------|:-------------------------------|
-| Released in 2019, lack of 
-  support for complex issues. 
-  Common errors documented on 
-  forums.| right-aligned | $1600 |
+| Released in 2019, lack of support for complex issues. Common errors documented on forums. | Released in 2019, lack of questions and posts on popular forums. | Released in 2018, it has plenty of common errors documented on forums. |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
