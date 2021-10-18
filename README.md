@@ -37,3 +37,10 @@ The Flutter UI itself is quite easy to follow, it uses an object oriented approa
 | Introduction of Combine framework | Easy to implement with the use of observables (LiveData) | Unconventional method of separating business logic from view (MVVM) |
 | Don’t have to use third party libraries | Don’t have to use third party libraries | Relatively tedious code structure |
 |  |  | May require significant extra training |
+
+### Development time
+|SwiftUI                      |Jetpack                      |Flutter                         |
+|:----------------------------|:----------------------------|:-------------------------------|
+| Quicker than UIKit | Quicker than traditional Android (excluding learning time) | Flutter can develop for both IOS and Android at once form the same source code. Can save development time. |
+| Allows for reusable Views. | Allows for reusable composable functions | May need switch-case UI loadouts to accommodate platform-specific widgets, which may increase development time. |
+| Easy to manage themes thus cutting down on development time |  | Might be faster but not necessarily. |
